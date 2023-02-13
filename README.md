@@ -1,3 +1,6 @@
+### Solution Demo
+![Simulator Screen Recording - iPhone 12 - 2023-02-11 at 18 55 28](https://user-images.githubusercontent.com/9503503/218270666-a7511c9f-6e4b-41b3-99b0-a4623ff30f61.gif)
+
 # rn-code-interview-test
 
 Your task is to develop this ReactNative application so that it fetches a list of StackOverflow users and displays it in a list on the screen.
@@ -21,3 +24,4 @@ Your task is to develop this ReactNative application so that it fetches a list o
 
 ### GET Users Request
 `GET http://api.stackexchange.com/2.2/users?pagesize=20&order=desc&sort=reputation&site=stackoverflow`
+
